@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.sqlite3
+
+# Node
+node_modules/
+build/
+
+# System
+.env
+.DS_Store
+Thumbs.db
